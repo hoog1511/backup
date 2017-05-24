@@ -1,0 +1,16 @@
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\bin\Debug\project1turtles.exe.config
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\bin\Debug\project1turtles.exe
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\bin\Debug\project1turtles.pdb
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\bin\Debug\ThinkLib.dll
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\bin\Debug\ThinkLib.xml
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\MainWindow.g.cs
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\App.g.cs
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles_MarkupCompile.cache
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles_MarkupCompile.lref
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\MainWindow.baml
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.g.resources
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.Properties.Resources.resources
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.csproj.GenerateResource.Cache
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.exe
+c:\users\lars\documents\visual studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\project1turtles\project1turtles\obj\Debug\project1turtles.csprojResolveAssemblyReference.cache

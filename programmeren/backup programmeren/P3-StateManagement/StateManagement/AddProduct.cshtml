@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/_Layout.cshtml";
+    Page.Title = "Product toevoegen";
+
+    if (IsPost && WebSecurity.IsAuthenticated)
+    {
+        Validation.RequireField("carChoice", "Gelieve uw product te selecteren");
+
+        var carChoice = Request["carChoice"];
+
+        if (Validation.IsValid())
+        {
+            Session["carChoice"] = carChoice;
+
+            Response.Redirect("~/AddAddress.cshtml");
+        }
+    }
+}
+
+@if (WebSecurity.IsAuthenticated)
+{
+    @Html.ValidationSummary(true)
+    <form method="post">
+        <p>
+            Welcome @WebSecurity.CurrentUserName!
+            <a href="@Href("~/Logout.cshtml")">Uitloggen</a>
+        </p>
+        <fieldset>
+            <legend>Product toevoegen</legend>
+            <select name="carChoice">
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                <option value="fiat">Fiat</option>
+                <option value="audi">Audi</option>
+            </select>
+            @Html.ValidationMessage("carChoice")
+            <p>
+                <input type="submit" name="buttonSubmit" value="Volgende" />
+            </p>
+        </fieldset>
+    </form>
+}
+else
+{
+    <p>
+        Gelieve <a href="@Href("~/Login.cshtml")">eerst in te loggen</a>
+    </p>
+}

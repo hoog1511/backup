@@ -1,0 +1,4 @@
+vind_het_lokaal.MainActivity, vind_het_lokaal;md5f8fe094007ed2be856ba814cdc1337f2.MainActivity
+vind_het_lokaal.MainActivity, vind_het_lokaal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f8fe094007ed2be856ba814cdc1337f2.MainActivity
+vind_het_lokaal.MainActivity;md5f8fe094007ed2be856ba814cdc1337f2.MainActivity
+vind_het_lokaal.MainActivity;md5f8fe094007ed2be856ba814cdc1337f2.MainActivity

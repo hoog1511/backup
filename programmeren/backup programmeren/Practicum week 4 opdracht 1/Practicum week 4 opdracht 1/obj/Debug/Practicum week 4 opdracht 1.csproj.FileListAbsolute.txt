@@ -1,0 +1,6 @@
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\bin\Debug\Practicum week 4 opdracht 1.exe.config
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\bin\Debug\Practicum week 4 opdracht 1.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\bin\Debug\Practicum week 4 opdracht 1.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\obj\Debug\Practicum week 4 opdracht 1.csprojResolveAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\obj\Debug\Practicum week 4 opdracht 1.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 4 opdracht 1\Practicum week 4 opdracht 1\obj\Debug\Practicum week 4 opdracht 1.pdb

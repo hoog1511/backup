@@ -1,0 +1,13 @@
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\vind_het_lokaal.csprojResolveAssemblyReference.cache
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\bin\Debug\vind_het_lokaal.dll
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\bin\Debug\vind_het_lokaal.pdb
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\bin\Debug\vind_het_lokaal.vind_het_lokaal.apk
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\bin\Debug\vind_het_lokaal.vind_het_lokaal-Signed.apk
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\vind_het_lokaal.dll
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\vind_het_lokaal.pdb
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\android\bin\vind_het_lokaal.vind_het_lokaal.apk
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\res\layout\main.xml
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\res\values\strings.xml
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\res\drawable\icon.png
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\R.cs.flag
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\vind het lokaal (project periode 4 jaar 1)\vind_het_lokaal\obj\Debug\uploadflags.txt

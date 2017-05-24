@@ -1,0 +1,6 @@
+c:\users\lars\documents\visual studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\bin\Debug\practicum week 3 opdracht 2 lars hoogma.exe.config
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\bin\Debug\practicum week 3 opdracht 2 lars hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\bin\Debug\practicum week 3 opdracht 2 lars hoogma.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\obj\Debug\practicum week 3 opdracht 2 lars hoogma.csprojResolveAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\obj\Debug\practicum week 3 opdracht 2 lars hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\practicum week 3 opdracht 2 lars hoogma\practicum week 3 opdracht 2 lars hoogma\obj\Debug\practicum week 3 opdracht 2 lars hoogma.pdb

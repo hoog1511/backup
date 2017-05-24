@@ -1,0 +1,6 @@
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\bin\Debug\Lars Hoogma hertentamen.exe.config
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\obj\Debug\Lars Hoogma hertentamen.csprojResolveAssemblyReference.cache
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\bin\Debug\Lars Hoogma hertentamen.exe
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\bin\Debug\Lars Hoogma hertentamen.pdb
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\obj\Debug\Lars Hoogma hertentamen.exe
+c:\users\lars\documents\visual studio 2015\Projects\Lars Hoogma hertentamen\Lars Hoogma hertentamen\obj\Debug\Lars Hoogma hertentamen.pdb

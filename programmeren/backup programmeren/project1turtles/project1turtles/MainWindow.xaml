@@ -1,0 +1,35 @@
+﻿<Window x:Class="project1turtles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project1turtles"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="343.1" Width="1072.8">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="336*"/>
+            <ColumnDefinition Width="197*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="playground" HorizontalAlignment="Stretch" Height="auto" Margin="0,0,115.4,-0.4" VerticalAlignment="Stretch" Width="auto" Background="#FF17DA19">
+            <Button x:Name="button" Content="Button" Height="42" Canvas.Left="10" Canvas.Top="10" Width="98" Click="button_Click"/>
+            <Button x:Name="button1" Content="Button" Height="52" Canvas.Left="10" Canvas.Top="78" Width="98" Click="button1_Click"/>
+            <Button x:Name="button2" Content="Button" Height="54" Canvas.Left="10" Canvas.Top="156" Width="98" Click="button2_Click"/>
+            <Button x:Name="button5" Content="driehoek" Height="69" Canvas.Left="10" Canvas.Top="244" Width="98" Click="button3_Click"/>
+            <Button x:Name="button3" Content="square" Height="42" Canvas.Left="399" Canvas.Top="10" Width="94" Click="button3_Click_1"/>
+            <Button x:Name="button4" Content="octagon" Height="52" Canvas.Left="399" Canvas.Top="78" Width="94" Click="button4_Click"/>
+            <Button x:Name="button6" Content="hectagon" Height="54" Canvas.Left="399" Canvas.Top="156" Width="94" Click="button6_Click"/>
+            <Button x:Name="button7" Content="EXTERMINATE!!!" Height="48" Canvas.Left="399" Canvas.Top="244" Width="94" Click="button7_Click"/>
+            <Slider x:Name="slider" Height="23" Canvas.Left="154" Canvas.Top="290" Width="177" ValueChanged="slider_ValueChanged"/>
+            <Button x:Name="button8" Content="geel" Height="17" Canvas.Left="149" Canvas.Top="12" Width="61" Click="button8_Click"/>
+            <Button x:Name="button9" Content="rood" Height="17" Canvas.Left="149" Canvas.Top="29" Width="61" Click="button9_Click"/>
+            <Button x:Name="button10" Content="roze" Height="17" Canvas.Left="149" Canvas.Top="46" Width="61" Click="button10_Click"/>
+            <Button x:Name="button11" Content="star" Height="34" Canvas.Left="252" Canvas.Top="29" Width="62" Click="button11_Click"/>
+            <Canvas Height="100" Width="100"/>
+        </Canvas>
+        <Canvas x:Name="playground2" Margin="557,0,0.4,-0.4" Background="#FF00FFA8" Grid.ColumnSpan="2">
+            <Canvas Height="100" Canvas.Left="226" Canvas.Top="202" Width="100"/>
+        </Canvas>
+
+    </Grid>
+</Window>

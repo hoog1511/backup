@@ -1,0 +1,6 @@
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\bin\Debug\Opdracht 8 Lars Hoogma.exe.config
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\bin\Debug\Opdracht 8 Lars Hoogma.exe
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\bin\Debug\Opdracht 8 Lars Hoogma.pdb
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\obj\Debug\Opdracht 8 Lars Hoogma.csprojResolveAssemblyReference.cache
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\obj\Debug\Opdracht 8 Lars Hoogma.exe
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 8 Lars Hoogma\Opdracht 8 Lars Hoogma\obj\Debug\Opdracht 8 Lars Hoogma.pdb

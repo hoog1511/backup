@@ -1,0 +1,60 @@
+﻿@{
+    Layout = "~/_Layout.cshtml";
+    Page.Title = "Bestel overzicht";
+
+    if (IsPost && WebSecurity.IsAuthenticated)
+    {
+        if (Request.Form["buttonCancel"] != null)
+        {
+            Session["carChoice"] = null;
+            Session["street"] = null;
+            Session["number"] = null;
+            Session["location"] = null;
+            Response.Redirect("~/AddProduct.cshtml");
+        }
+        else if (Request.Form["buttonSubmit"] != null)
+        {
+            Response.Redirect("~/OrderComplete.cshtml");
+        }
+    }
+}
+@if (WebSecurity.IsAuthenticated)
+{
+    @Html.ValidationSummary(true)
+    <form method="post">
+        <p>
+            Welcome @WebSecurity.CurrentUserName!
+            <a href="@Href("~/Logout.cshtml")">Uitloggen</a>
+        </p>
+        <fieldset>
+            <legend>Bestel overzicht</legend>
+            <p>
+                <label for="product">Product:</label>
+            </p>
+            <p id="product">@Session["carChoice"]</p>
+            <p>
+                <label for="street">Straat:</label>
+            </p>
+            <p id="street">@Session["street"]</p>
+            <p>
+                <label for="number">Nummer:</label>
+            </p>
+            <p id="number">@Session["number"]</p>
+            <p>
+                <label for="location">Plaats:</label>
+            </p>
+            <p id="location">@Session["location"]</p>
+
+            <p>
+                <input type="submit" name="buttonCancel" value="Annuleren" />
+                <input type="submit" name="buttonSubmit" value="Bestelling plaatsen"/>
+            </p>
+        </fieldset>
+    </form>
+}
+else
+{
+    <p>
+        Gelieve <a href="@Href("~/Login.cshtml")">eerst in te loggen</a>
+    </p>
+}

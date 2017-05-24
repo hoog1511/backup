@@ -1,0 +1,4 @@
+AndroidTimePicker.MainActivity, AndroidTimePicker;md53f4fb46297f8d028b2055a32aa54307e.MainActivity
+AndroidTimePicker.MainActivity, AndroidTimePicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f4fb46297f8d028b2055a32aa54307e.MainActivity
+AndroidTimePicker.MainActivity;md53f4fb46297f8d028b2055a32aa54307e.MainActivity
+androidtimepicker.MainActivity;md53f4fb46297f8d028b2055a32aa54307e.MainActivity

@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/_Layout.cshtml";
+    Page.Title = "Inloggen";
+
+    var rememberMe = false;
+
+    // Maak een dummy account aan
+    if (!WebSecurity.UserExists("test"))
+    {
+        WebSecurity.CreateUserAndAccount("test", "test");
+    }
+
+    if (IsPost)
+    {
+        Validation.RequireField("username", "Gelieve uw gebruikersnaam in te voeren");
+        Validation.RequireField("password", "Gelieve uw wachtwoord in te voeren");
+
+        var username = Request["username"];
+        var password = Request["password"];
+        rememberMe = Request["rememberMe"].AsBool();
+
+        if (Validation.IsValid())
+        {
+            if (WebSecurity.UserExists(username))
+            {
+                if (WebSecurity.Login(username, password, rememberMe))
+                {
+                    Response.Redirect("~/AddProduct.cshtml");
+                }
+                else
+                {
+                    Validation.AddFormError("Gebruikersnaam en/of wachtwoord is onjuist");
+                }
+            }
+            else
+            {
+                Validation.AddFormError("Gebruikersnaam en/of wachtwoord is onjuist");
+            }
+        }
+    }
+}
+
+@Html.ValidationSummary(true)
+<form method="post">
+    <fieldset>
+        <legend>Inloggen</legend>
+        <p>
+            <label for="title">Gebruikersnaam:</label>
+        </p>
+        <input id="username" type="text" name="username" value="@Request.Form["username"]"/>
+        @Html.ValidationMessage("username")
+
+        <p>
+            <label for="password">Wachtwoord:</label>
+        </p>
+        <input id="password" type="password" name="password" value="@Request.Form["password"]"/>
+        @Html.ValidationMessage("password")
+
+        <p>
+            <label for="password">Onthoud mij</label>
+            <input type="checkbox" name="rememberMe" value="true" checked="@rememberMe"/>
+        </p>
+
+        <p>
+            <input type="submit" name="buttonSubmit" value="Inloggen"/>
+        </p>
+    </fieldset>
+</form>

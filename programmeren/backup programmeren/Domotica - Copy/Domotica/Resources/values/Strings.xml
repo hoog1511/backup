@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="application_name">Switch</string>
+  <string name="timer_state_text">Time</string>
+  <string name="timer_state_value">OFF</string>
+  <string name="arduino_server_text">Arduino server</string>
+  <string name="arduino_server_connect">Not connected</string>
+  <string name="ip_address_text">IP Address</string>
+  <string name="ip_address_value">192.168.1.100</string>
+  <string name="ip_port_text">IP Port</string>
+  <string name="ip_port_value">3300</string>
+  <string name="button_connect_text">Connect</string>
+  <string name="switch_pintstate1_text">Socket 1</string>
+  <string name="switch_pintstate2_text">Socket 2</string>
+  <string name="switch_sensor_mode_text">Sensor mode</string>
+  <string name="button_time_text">Set time for lights on</string>
+  <string name="button_time_text2">Set time for lights off</string>
+  <string name="lights_on_button">Send time</string>
+  <string name="lights_off_button">Send time</string>
+  <string name="sensor_text">Sensor value</string>
+  <string name="lightson_text">Lights on at:</string>
+  <string name="lightsoff_text">Lights off at:</string>
+  <string name="sensor_value">-</string>
+  <string name="time_on_text">-</string>
+  <string name="time_off_text">-</string>
+  <string name="debug_text">Debug</string>
+  <string name="debug_value">-</string>
+  <string name="exit">Exit</string>
+  <string name="abort">Abort</string>
+</resources>

@@ -1,0 +1,6 @@
+c:\users\lars\documents\visual studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\bin\Debug\Opdracht 5 Lars Hoogma.exe.config
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\bin\Debug\Opdracht 5 Lars Hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\bin\Debug\Opdracht 5 Lars Hoogma.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\obj\Debug\Opdracht 5 Lars Hoogma.csprojResolveAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\obj\Debug\Opdracht 5 Lars Hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Opdracht 5 Lars Hoogma\Opdracht 5 Lars Hoogma\obj\Debug\Opdracht 5 Lars Hoogma.pdb

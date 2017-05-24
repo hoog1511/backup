@@ -1,0 +1,12 @@
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\bin\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe.config
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\bin\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\bin\Debug\Practicum week3 opdracht 2 Lars Hoogma.pdb
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe
+c:\users\lars\documents\visual studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week3 opdracht 2 Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.csprojResolveAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen\Practicum week3 opdracht 2 Lars Hoogma\bin\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe.config
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.pdb
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\bin\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe.config
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.exe
+C:\Users\Lars\Documents\Visual Studio 2015\Projects\Practicum week 3 opdracht 1+ uitbreidingen Lars Hoogma\Practicum week3 opdracht 2 Lars Hoogma\obj\Debug\Practicum week3 opdracht 2 Lars Hoogma.pdb

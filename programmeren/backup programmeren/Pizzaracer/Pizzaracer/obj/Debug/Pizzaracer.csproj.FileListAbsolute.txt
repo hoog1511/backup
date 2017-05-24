@@ -1,0 +1,9 @@
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\bin\Debug\Pizzaracer.exe.config
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\bin\Debug\Pizzaracer.exe
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\bin\Debug\Pizzaracer.pdb
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.csprojResolveAssemblyReference.cache
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.Form1.resources
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.Properties.Resources.resources
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.csproj.GenerateResource.Cache
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.exe
+c:\users\lars\documents\visual studio 2015\Projects\Pizzaracer\Pizzaracer\obj\Debug\Pizzaracer.pdb

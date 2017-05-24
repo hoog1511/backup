@@ -1,0 +1,6 @@
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\bin\Debug\security test.exe.config
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\bin\Debug\security test.exe
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\bin\Debug\security test.pdb
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\obj\Debug\security test.exe
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\obj\Debug\security test.pdb
+C:\Users\larsh\Documents\Visual Studio 2015\Projects\security test\security test\obj\Debug\security test.csprojResolveAssemblyReference.cache

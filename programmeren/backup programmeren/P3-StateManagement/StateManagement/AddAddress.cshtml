@@ -1,0 +1,65 @@
+﻿@{
+    Layout = "~/_Layout.cshtml";
+    Page.Title = "Adres toevoegen";
+
+    if (IsPost && WebSecurity.IsAuthenticated)
+    {
+        Validation.RequireField("street", "Gelieve uw straat in te voeren");
+        Validation.RequireField("number", "Gelieve uw huisnummer in te voeren");
+        Validation.RequireField("location", "Gelieve uw plaats in te voeren");
+
+        var street = Request["street"];
+        var number = Request["number"];
+        var location = Request["location"];
+
+        if (Validation.IsValid())
+        {
+            Session["street"] = street;
+            Session["number"] = number;
+            Session["location"] = location;
+
+            Response.Redirect("~/Overview.cshtml");
+        }
+    }
+}
+
+@if (WebSecurity.IsAuthenticated)
+{
+    @Html.ValidationSummary(true)
+    <form method="post">
+        <p>
+            Welcome @WebSecurity.CurrentUserName!
+            <a href="@Href("~/Logout.cshtml")">Uitloggen</a>
+        </p>
+        <fieldset>
+            <legend>Product toevoegen</legend>
+            <p>
+                <label for="street">Straat:</label>
+            </p>
+                <input id="street" type="text" name="street" value="@Request.Form["street"]" />
+                @Html.ValidationMessage("street")
+
+            <p>
+                <label for="number">Nummer:</label>
+            </p>
+                <input id="number" type="text" name="number" value="@Request.Form["number"]" />
+                @Html.ValidationMessage("number")
+           
+            <p>
+                <label for="location">Plaats:</label>
+            </p>
+                <input id="location" type="text" name="location" value="@Request.Form["location"]" />
+                @Html.ValidationMessage("location")
+     
+            <p>
+                <input type="submit" name="buttonSubmit" value="Volgende" />
+            </p>
+        </fieldset>
+    </form>
+}
+else
+{
+    <p>
+        Gelieve <a href="@Href("~/Login.cshtml")">eerst in te loggen</a>
+    </p>
+}
